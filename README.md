@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**acaaaimup/acaaaimup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+2. <html>
+3. <head>
+4. <title>profil saya - acaaaimup</title>
+5.     <link rel="stylesheet" href="stule.css">
+6. </head>
+7. <body>
+8.             <div class="kartu-profil">
+9.             <img src="foto-profil.jpg" alt="foto profil saya">
+10.            <h1>acaaaimup</h1>
+11.           <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website saya!</p>
+12.             <a href="https://www.instagram.com/usernameanda">kunjungi Instagram saya</a>
+13.              <button id="sapaButton">Sapa saya!</button>
+14.       </div>
+15.        <script src="scrip.js"></script>
+16.         </body>
+17.          </html>￼Enter
